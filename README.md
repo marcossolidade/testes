@@ -1,2 +1,2 @@
-# testes
-testes realizados em sites categorias A e B
+# testes_software
+testes de velocidade realizados em sites categorias A e B
